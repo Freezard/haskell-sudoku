@@ -1,8 +1,6 @@
 {-
 Introduction to Functional Programming
 Lab 3
-Jonas Einarsson (einarssj@student.chalmers.se)
-Mattias Majetic (gusmajem@student.gu.se) 
 -}
 
 
